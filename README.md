@@ -22,10 +22,12 @@ Hoje, meu objetivo é atuar em equipes de tecnologia, contribuindo para o desenv
 Estou dedicando meu tempo para dominar as seguintes tecnologias e conceitos:
 
 <div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+
+  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/>
   <img src="https://img.shields.io/badge/Agile-007BFF?style=for-the-badge&logo=agile&logoColor=white" alt="Agile Badge"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-9B3B71?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning Badge"/>
+  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+  
 </div>
 
 ## Conecte-se Comigo
