@@ -1,38 +1,39 @@
 # Olá, eu sou o Felipe Nery! 
 
-Bem-vindo ao meu perfil do GitHub! Sou um profissional em transição de carreira, migrando da área administrativa para o universo da Engenharia de Software. Com uma bagagem diversificada em gestão e processos administrativos, estou animado para aplicar minha experiência na resolução de problemas e na criação de soluções inovadoras no setor de tecnologia.
+Bem-vindo ao meu perfil.
 
-Atualmente, estou no terceiro ano da graduação em **Engenharia de Software** e mergulhando de cabeça nos estudos para me tornar um desenvolvedor de alta performance.
+Sou um Desenvolvedor de Software com experiência profissional em Administração. Minha experiência em gestão e processos me oferece uma visão analítica para resolver problemas de negócio através de código.
 
-## Minha Jornada até Aqui
+Os projetos que você encontra aqui documentam minha aplicação prática e meu foco em me tornar um profissional de excelência, desenvolvendo soluções eficientes. Atualmente, complemento minha atuação prática cursando **Engenharia de Software**.
 
-Trabalhei por anos no setor administrativo, atuando em Postos de Combustível e Laticínio, onde desenvolvi uma sólida base em gestão e processos administrativos. Mais recentemente, como assistente de desenvolvimento em uma fábrica de estofados, tive meu primeiro contato com o mundo da criação de produtos, utilizando o **SketchUp 3D** para:
+## Minha Experiência
 
--   Desenvolver e detalhar estruturas de madeira e espumas.
--   Realizar a gestão de custos de matéria-prima.
--   Criar layouts técnicos de bases e pés para produção terceirizada.
+Minha carreira anterior em Administração e desenvolvimento de produtos me ensinou a otimizar processos, gerenciar custos e transformar ideias em soluções reais. Na minha função mais recente, atuei diretamente no desenvolvimento de produtos, usando **SketchUp 3D** para:
 
+* Prototipar e detalhar estruturas de produtos.
+* Realizar a gestão de custos de matéria-prima.
+* Criar layouts técnicos para produção.
+
+Hoje, aplico essa mesma mentalidade analítica e focada em resultados para desenvolver software.
 
 ## Foco e Objetivos
 
-Hoje, meu objetivo é atuar em equipes de tecnologia, contribuindo para o desenvolvimento de softwares que façam a diferença. Estou focado em aprender e aplicar meus conhecimentos para resolver problemas complexos e criar soluções eficientes e escaláveis.
+Estou focado em atuar no desenvolvimento de aplicações robustas, aplicando meus conhecimentos para construir software escalável e que resolve problemas reais de negócios. Acredito que a tecnologia é a principal ferramenta para otimizar processos, e é nisso que concentro meus esforços.
 
-## Tecnologias e Metodologias em Aprendizagem
+## Foco Tecnológico
 
-Estou dedicando meu tempo para dominar as seguintes tecnologias e conceitos:
+Concentro meus estudos e projetos nas seguintes ferramentas e conceitos:
 
 <div>
-
-  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot Badge"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/>
   <img src="https://img.shields.io/badge/Agile-007BFF?style=for-the-badge&logo=agile&logoColor=white" alt="Agile Badge"/>
-  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-  
-</div>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badge"/>
+  </div>
 
 ## Conecte-se Comigo
 
-Adoraria me conectar com outros profissionais, estudantes e entusiastas da tecnologia. Vamos trocar ideias e experiências!
+Adoraria me conectar com outros profissionais e entusiastas da tecnologia. Vamos trocar ideias e experiências!
 
 <div>
   <a href="https://www.linkedin.com/in/felipe-nery-9ab6bb149" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
