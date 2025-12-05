@@ -17,5 +17,11 @@ Foco em construir e testar APIs  e soluções de back-end.
 
 ###  Minhas Estatísticas
 
-![Estatísticas do Felipe no GitHub](https://github-readme-stats.vercel.app/api?username=FelipeFlorianoNery&show_icons=true&theme=transparent)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFlorianoNery&layout=compact&theme=transparent)
+<div align="center">
+  
+  <h3>🧬 Histórico de Contribuições</h3>
+  <img src="https://ghchart.rshah.org/00FF41/FelipeFlorianoNery" alt="Felipe's Matrix Github Chart" />
+  
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipeFlorianoNery&show_icons=true&theme=dark&bg_color=000000&title_color=00FF41&text_color=00FF41&icon_color=00FF41&border_color=00FF41&hide_border=false" alt="Felipe's Github Stats" />
